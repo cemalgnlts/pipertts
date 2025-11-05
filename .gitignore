@@ -1,0 +1,16 @@
+# libpiper
+/internal/libpiper/download
+/internal/libpiper/build
+/internal/libpiper/install
+/internal/libpiper/lib
+
+# model files
+*.onnx
+*.onnx.json
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# output files
+*.wav
